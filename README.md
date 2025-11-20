@@ -1,6 +1,6 @@
 # Circuitos-Digitais
 
-Repositório contendo a resolução da lista de exercícios da 1º unidade.
+Repositório contendo a resolução da lista de exercícios.
 ## Componentes:
 
 Lucas Vieres Araújo Farias  
